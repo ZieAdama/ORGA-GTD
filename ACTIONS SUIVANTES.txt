@@ -1,0 +1,17 @@
+
+
+
+		CHAQUE JOUR
+Lire une page laravel
+Lire une page inertiajs
+Lire une page react
+
+                CHAQUE SEMAINE
+Je recolte les numeros des magasins
+Ajouter les numeros a mon groupe de clients
+J'envoie mes sms
+Je cree un nouveau affiche
+je fait mes publications sur les groupes facebook
+J'integre de nouvelle groupes
+
+Stocker mes donnees sur git

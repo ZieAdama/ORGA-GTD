@@ -1,0 +1,19 @@
+NOM-ENTREPRISE
+	RAISON
+	BUTS
+	BRAINSTORMING
+		Communication
+		CashFlow
+		Systeme
+		Juridique
+	STRUCTURATION
+		Communication
+		CashFlow
+		Systeme
+		Juridique
+	ACTIONS SUIVANTES
+		Communication
+		CashFlow
+		Systeme
+		Juridique
+		

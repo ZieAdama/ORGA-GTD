@@ -1,0 +1,4 @@
+-Regler mon problem avec git
+-Faire un push de donnees sur git
+
+-Surveiller son evolution
