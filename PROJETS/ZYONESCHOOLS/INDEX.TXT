@@ -1,0 +1,111 @@
+﻿ZYONESCHOOLS
+	BUT
+		JE VEUX QUE ZYONESCHOOLS DEVIENT LE LOGICIEL NATIONAL DE GESTION DES ECOLES
+		JE VEUX CREER UNE ENTREPRISE PUISSANTE AUTOUR DU LOGICIEL ZYONESCHOOLS
+	BRAINSTORMING
+		regarder les documents recolter de Zyoneschools
+		Deh que je crée une page, je crée en même temps la traduction
+		RECHERCHES
+	STRUCTURATION
+		DATABASE
+			Definir tous les entites du systeme
+			Determiner les liens de l'entites Ecoles avec toutes les autres entites
+			Determiner les attributs de l'entite Ecoles
+			Determiner les contraintes sur chaque attribut de l'entite Ecoles
+			Determiner les liens de l'entites Administrateur avec toutes les autres entites
+			Determiner les attributs de l'entite Administrateur
+			Determiner les contraintes sur chaque attribut de l'entite Administrateur
+			Determiner les liens de l'entites Directeur avec toutes les autres entites
+			Determiner les attributs de l'entite Directeur
+			Determiner les contraintes sur chaque attribut de l'entite Directeurs
+			Determiner les liens de l'entites Enseignant avec toutes les autres entites
+			Determiner les attributs de l'entite Enseignant
+			Determiner les contraintes sur chaque attribut de l'entite Enseignants
+			Determiner les liens de l'entites Apprenant avec toutes les autres entites
+			Determiner les attributs de l'entite Apprenant
+			Determiner les contraintes sur chaque attribut de l'entite Apprenants
+			Determiner les liens de l'entites Parent avec toutes les autres entites
+			Determiner les attributs de l'entite Parent
+			Determiner les contraintes sur chaque attribut de l'entite Parents
+			Determiner les liens de l'entites Niveaux avec toutes les autres entites
+			Determiner les attributs de l'entite Niveaux
+			Determiner les contraintes sur chaque attribut de l'entite Niveaux
+			Determiner les liens de l'entites Matieres avec toutes les autres entites
+			Determiner les attributs de l'entite Matieres
+			Determiner les contraintes sur chaque attribut de l'entite Matieres
+			Determiner les liens de l'entites Composition avec toutes les autres entites
+			Determiner les attributs de l'entite Composition
+			Determiner les contraintes sur chaque attribut de l'entite Composition
+			Determiner les liens de l'entites Notes avec toutes les autres entites
+			Determiner les attributs de l'entite Notes
+			Determiner les contraintes sur chaque attribut de l'entite Notes
+			Determiner les liens de l'entites Devoirs avec toutes les autres entites
+			Determiner les attributs de l'entite Devoirs
+			Determiner les contraintes sur chaque attribut de l'entite Devoirs
+			Determiner les liens de l'entites Annees avec toutes les autres entites
+			Determiner les attributs de l'entite Annees
+			Determiner les contraintes sur chaque attribut de l'entite Annees
+			Faire une representation graphique des entites et leur relation
+		FRONTEND
+			Trouver un bon Template pour les Guess et autres
+			Trouver un bon Template pour les gestionnaires
+			Faire ton layout pour les clients
+			Faire ton layout pour les gestionnaire
+			Concevoir la page d'accueil
+			Concevoir la page de connexion
+			Faire ta page d'erreur 404
+			Faire mon composent de base pour les tableaux
+			Faire mon composent de base pour les formulaire
+		BACKEND
+			Telecharge une nouvelle app laravel
+			mettre en place le systeme d'authentification
+			Mettre en place le systeme de role
+			Prendre une entite
+				Generer la migation, le model, le controller, la factorie pour cette entite
+				Lire la page de migration de laravel
+				Ecrire la migration de cette entite
+				Lire la page de model de laravel
+				Definit les attributs de masse asseimente dans le model
+				Lire la page de relationships de laravel
+				Ecrire les fonctions de relation de ce model
+				Lire la page de factory de laravel
+				Ecrire la factorie de cette entite
+				Lire la page de seed de laravel
+				Migrer la table et Seeder la factorie
+				Lire la page de controller de laravel
+				Ecrire le contenue de la fonction index qui ramene tous le contenus de la table
+				Lire la page de validation de laravel
+				Valider le contenue de la fonction index qui ramene tous le contenus de la table
+				Ecrire le contenue de la fonction create qui renvoie le formulaire de creation de l'entite
+				Valider le contenue de la fonction create qui renvoie le formulaire de creation de l'entite
+				Ecrire le contenue de la fonction store qui stocke une nouvelle entite
+				Valider le contenue de la fonction store qui stocke une nouvelle entite
+				Ecrire le contenue de la fonction edit que modifie une entite
+				Valider le contenue de la fonction edit que modifie une entite
+				Ecrire le contenue de la fonction delete qui supprime une entite
+				Valider le contenue de la fonction delete qui supprime une entite
+				Lire la documentation de postman
+				Tester la fonction index de l'entite avec postman
+				Tester la fonction create de l'entite avec postman
+				Tester la fonction store de l'entite avec postman
+				Tester la fonction edit de l'entite avec postman
+				Tester la fonction delete de l'entite avec postman
+				Creer le tableau d'affichage des element de l'entite
+				Creer le formulaire de creation d'une entite
+				Valider les formulaires de creation cote client
+				Fait revenir une entite particuliere pour la modification
+				Supprimer une entite particuliere
+		PDF
+			Apprendre sur la bibliotheque JavaScript de gestion des pdf
+			Determiner les endroits ou introduit les pdf
+			Faire mon template de pdf avec un logiciel de photo pour chaque endroit ou introduir un pdf
+			Generer les fichier pdf
+		LANGUE
+			PHRASES
+				Apprendre sur laravel langue
+				Integrer la laravel lang a mon App
+			CHIFFRES
+				Trouver la libraire javascript de traduction des chiffres francais en chiffre Arabe
+				Apprendre cette librairie
+				Integrer la librairie a react
+	ACTIONS SUIVANTES

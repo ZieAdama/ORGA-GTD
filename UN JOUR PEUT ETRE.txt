@@ -14,3 +14,15 @@
 -SOCIETE DE VENTE DE MATERIEL IMMOBILIERE
 
 -SOCIETE DE LOCATION IMMOBILIERE
+
+-Logiciel de réparation de voiture
+
+-Reprogrammation de voiture
+
+-Apprendre Admin LTE
+
+-Surveiller l'evolution de Laratrust
+
+-Etudier la gestion de projets
+
+-ROBOTIQUE: Planifier
