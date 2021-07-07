@@ -3,6 +3,7 @@ ZYONETECH
 		Creer une societe qui cree les logiciels pour les gens
 		Les gens nous appel pour nous donner des projets de creation d'application
 	BRAINSTORMING
+		Travailler sur chaque page une a une
 		Particle.js
 		Trouver les expressions a introduit sur le site ZT
 		Communication

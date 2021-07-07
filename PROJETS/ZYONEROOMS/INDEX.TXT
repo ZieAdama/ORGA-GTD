@@ -12,6 +12,7 @@
 			-chambre
 			-Reservation
 			-Personnel
+			-Prix
 		les gens peuvent commander les chambres en ligne
 		RECHERCHES
 	STRUCTURATION:
