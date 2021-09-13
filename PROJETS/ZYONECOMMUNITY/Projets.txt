@@ -1,0 +1,23 @@
+            PROJETS: ZYONECOMMUNITY
+
+-Finir la mise en place du FrontEnd
+
+-Finir la mise en place du BackEnd
+
+-Finir la mise en place de la DB
+
+-Finir le CRUD sur l'entite membre
+
+-Finir le CRUD sur l'entite evenement
+
+-Finir le CRUD sur l'entite Admin
+
+-Finir la gestion de la caisse
+
+-Finir le CRUD sur l'entite Association
+
+-Finir le CRUD sur l'entite operation
+
+-Finir le CRUD sur l'entite cotisation
+
+-Finir le CRUD sur l'entite Reunion

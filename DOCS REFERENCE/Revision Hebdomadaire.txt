@@ -1,13 +1,7 @@
 
 
 -Clarification des intrants
--Composer mes Examens du Lundi
--Composer mes Examens du Mardi
--Composer mes Examens du Mercredi
--Composer mes Examens du Jeudi
--Composer mes Examens du Vendredi
--Composer mes Examens du Samedi
--Composer mes Examens du Dimanche
+
 -Synchroniser mes listes projets, un jour peut etre, en attente
 -Faire un push de mes donnees
 -Synchroniser mon phone et mon ordi

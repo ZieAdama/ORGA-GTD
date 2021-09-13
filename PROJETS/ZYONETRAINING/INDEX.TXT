@@ -12,52 +12,46 @@
 			-Etudiants
 		RECHERCHES
 	STRUCTURATION:
-		Definir tous les entit�s du systeme et le type de logiciel dont il s'agit-OK
-		Prendre une entite et determiner tous les attributs la concernant
-		Determiner les contraintes sur chaque attribut de cette entite
-		Determiner les relations entres les entites
-		Telecharge une nouvelle app laravel
+		ok-Faire les interviews orale avec les acteurs du systeme pour recueillir le plus d'infos possible
+		Recueillir les documents internes necessaires avec les acteurs
+		Recueillir des documents externes
+		Etude des infos de l'interviews orale pour etouffer le DD
+		Etude des documents internes pour etouffer le DD
+		Etude des documents externes pour etoufer le DD
+		Completer, Corriger et Finaliser le DD
+		Mettre en place les dependances fonctionnelles
+		Faire la matrice des dependances fonctionnelles
+		Ecrire les relations entre chaque entite et tous les autres
+		Modeliser les relations individuel entre les entites
+		Regrouper les relations individuelles pour constituer le MCD
+		Transformer les relations individuel modeliser en MLD
+		Regrouper les MLD individuel pour former le MLD final
+		Transformer chaque entite individuel en MPD
+		Appliquer les formes normaliser sur chaque MPD
+		Telecharger une nouvelle App laravel
+		Mettre a jour mon fichier d'environnement
 		Mettre en place le systeme d'authentification
+		Determiner les differents roles du systeme
 		Mettre en place le systeme de role
+		Generer le model, le controlleur, la migration, la factorie de chaque entite
+		Ecrire la migration de chaque entites individuels
+		Ecrire la factorie de chaque migration
+		Ecrire les attributs de masse assaiment de chaque model
+		Ecrire les fonctions de relation de chaque model
+		Ecrire les fonctions CRUD de chaque controlleur
+		Valider les fonctions CRUD de chaque controlleur
+		Tester les fonctions CRUD de chaque controlleur avec postman
 		Trouver un bon Template pour les Guess et autres
 		Trouver un bon Template pour les gestionnaires
 		Faire ton layout pour les clients
-		Faire ton layout pour les gestionnaire
 		Concevoir la page d'accueil
 		Concevoir la page de connexion
 		Faire ta page d'erreur 404
-		Prendre une entite
-		Generer la migation, le model, le controller, la factorie pour cette entite
-		Ecrire la migration de cette entite
-		Definit les attributs de masse asseimente dans le model
-		Ecrire la factorie de cette entite
-		Migrer la table et Seeder la factorie
-		Ecrire le contenue de la fonction index qui ramene tous le contenus de la table
-		Valider le contenue de la fonction index qui ramene tous le contenus de la table
-		Ecrire le contenue de la fonction create qui renvoie le formulaire de creation de l'entite
-		Valider le contenue de la fonction create qui renvoie le formulaire de creation de l'entite
-		Ecrire le contenue de la fonction store qui stocke une nouvelle entite
-		Valider le contenue de la fonction store qui stocke une nouvelle entite
-		Ecrire le contenue de la fonction edit que modifie une entite
-		Valider le contenue de la fonction edit que modifie une entite
-		Ecrire le contenue de la fonction delete qui supprime une entite
-		Valider le contenue de la fonction delete qui supprime une entite
-		Tester la fonction index de l'entite avec postman
-		Tester la fonction create de l'entite avec postman
-		Tester la fonction store de l'entite avec postman
-		Tester la fonction edit de l'entite avec postman
-		Tester la fonction delete de l'entite avec postman
-		Faire mon composent de base pour les tableaux
-		Faire mon composent de base pour les formulaire
-		Creer le tableau d'affichage des element de l'entite
-		Creer le formulaire de creation d'une entite
-		Valider les formulaires de creation cote client
-		Fait revenir une entite particuliere pour la modification
-		Supprimer une entite particuliere
-		...
-		Mettre en place les relations entre les entites
+		Faire ton layout pour les gestionnaire
+		Installer reactstrap pour les composants
+		Creer les listes d'affichage de chaque entites
+		Creer les formulaire de creation de chaque entite
+		Creer les formulaires de modification de chaque entite
+		Faire la suppression de chaque entite
 	ACTIONS SUIVANTES:
-		determiner tous les attributs de l'entites Etudiants
-		determiner tous les attributs de l'entites Ecoles
-		determiner tous les attributs de l'entites Entreprise
-		determiner tous les attributs de l'entites Admins
+		Faire les interviews orale avec les acteurs du systeme pour recueillir le plus d'infos possible

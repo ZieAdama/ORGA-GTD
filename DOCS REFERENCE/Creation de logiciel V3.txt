@@ -1,0 +1,77 @@
+LOGICIEL OU UNE APP WEB 
+	BUT: Etablir les etapes de la creation d'un logiciel avec laravel
+	BRAINSTORMING:
+
+		DATABASE
+			1-Faire les interviews orale avec les acteurs du systeme pour recueillir le plus d'infos possible
+			2-Recueillir les documents internes necessaires avec les acteurs
+			3-Recueillir des documents externes
+			4-Etude des infos de l'interviews orale pour etouffer le DD
+			5-Etude des documents internes pour etouffer le DD
+			6-Etude des documents externes pour etoufer le DD
+			7-Completer, Corriger et Finaliser le DD
+			8-Mettre en place les dependances fonctionnelles
+			9-Faire la matrice des dependances fonctionnelles
+			10-Faire le graphe des dependances fonctionnelles
+			11-Ecrire les relations entre chaque entite et tous les autres
+			12-Modeliser les relations individuel entre une entite et les autres
+			13-Regrouper les relations individuelles pour constituer le MCD
+			14-Transformer les relations individuel modeliser en MLD
+			15-Regrouper les MLD individuel pour former le MLD final
+			16-Transformer chaque intite individuel en MPD
+			17-Appliquer les formes normaliser sur chaque MPD
+
+		FRONTEND
+			1-Trouver un bon Template pour les Guess et autres
+			2-Trouver un bon Template pour les gestionnaires
+			3-Faire ton layout pour les clients
+			4-Faire ton layout pour les gestionnaire
+			5-Concevoir la page d'accueil
+			6-Concevoir la page de connexion
+			7-Faire ta page d'erreur 404
+			8-Installer reactstrap pour les composants
+			9-Creer les listes d'affichage de chaque entites
+			10-Creer les formulaire de creation de chaque entite
+			11-Creer les formulaires de modification de chaque entite
+			12-Faire la suppression de chaque entite
+			13-Valider les formulaires de creation cote client
+
+		BACKEND
+			1-Telecharger une nouvelle App laravel
+			2-Mettre en place le systeme d'authentification
+			3-Determiner et ecrire les roles de l'application
+			4-Mettre en place le systeme de role
+		CRUD
+			1-Prendre une entite et Generer la migation, le model, le controller, la factorie pour cette entite
+			2-Ecrire la migration de cette entites individuels
+			3-Ecrire la factorie de cette migration
+			4-Ecrire les attributs de masse assaiment du model de cette entite
+			5-Ecrire les fonctions de relation du model de cette entite
+
+			6-Ecrire le contenue de la fonction index qui ramene tous le contenus de la table
+			7-Valider le contenue de la fonction index qui ramene tous le contenus de la table
+			8-Tester la fonction index de l'entite avec postman
+
+			9-Ecrire le contenue de la fonction create qui renvoie le formulaire de creation de l'entite
+			10-Valider le contenue de la fonction create qui renvoie le formulaire de creation de l'entite
+			11-Tester la fonction create de l'entite avec postman
+
+			12-Ecrire le contenue de la fonction store qui stocke une nouvelle entite
+			13-Valider le contenue de la fonction store qui stocke une nouvelle entite
+			14-Tester la fonction store de l'entite avec postman
+
+			15-Ecrire le contenue de la fonction show qui montre une entite specifique
+			16-Valider le contenue de la fonction show qui une entite specifique
+			17-Tester la fonction show de l'entite avec postman
+
+			18-Ecrire le contenue de la fonction edit qui renvoie le formulaire de modification d'un element
+			19-Valider le contenue de la fonction edit qui renvoie le formulaire de modification d'un element
+			20-Tester la fonction edit de l'entite avec postman
+			
+			21-Ecrire le contenue de la fonction update que modifie une entite
+			22-Valider le contenue de la fonction update qui modifie une entite
+			23-Tester la fonction update de l'entite avec postman
+
+			24-Ecrire le contenue de la fonction destroy qui supprime une entite
+			25-Valider le contenue de la fonction destroy qui supprime une entite
+			36-Tester la fonction destroy de l'entite avec postman

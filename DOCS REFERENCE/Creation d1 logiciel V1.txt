@@ -1,0 +1,112 @@
+LOGICIEL OU UNE APP WEB 
+	BUT: Etablir les etapes de la creation d'un logiciel avec laravel
+	BRAINSTORMING:
+		RECHERCHES
+	STRUCTURATION:
+		DATABASE
+			Faire les interviews orale avec les acteurs du systeme pour recueillir le plus d'infos possible
+			Recueillir les documents internes necessaires avec les acteurs
+			Recueillir des documents externes
+			Etude des infos de l'interviews orale pour etouffer le DD
+			Etude des documents internes pour etouffer le DD
+			Etude des documents externes pour etoufer le DD
+			Completer, Corriger et Finaliser le DD
+			Mettre en place les dependances fonctionnelles
+			Faire la matrice des dependances fonctionnelles
+			Ecrire les relations entre chaque entite et tous les autres
+			Modeliser les relations individuel entre les entites
+			Regrouper les relations individuelles pour constituer le MCD
+			Transformer les relations individuel modeliser en MLD
+			Regrouper les MLD individuel pour former le MLD final
+			Transformer chaque intite individuel en MPD
+			Appliquer les formes normaliser sur chaque MPD
+			Generer le model, le controlleur...et Ecrire la migration de chaque entites individuels
+		FRONTEND
+			Trouver un bon Template pour les Guess et autres
+			Trouver un bon Template pour les gestionnaires
+			Faire ton layout pour les clients
+			Faire ton layout pour les gestionnaire
+			Concevoir la page d'accueil
+			Concevoir la page de connexion
+			Faire ta page d'erreur 404
+			Faire mon composent de base pour les tableaux
+			Faire mon composent de base pour les formulaire
+		BACKEND
+			Telecharge une nouvelle app laravel
+			mettre en place le systeme d'authentification
+			Mettre en place le systeme de role
+			Prendre une entite
+			Generer la migation, le model, le controller, la factorie pour cette entite
+			Ecrire la migration de cette entite
+			Definit les attributs de masse asseimente dans le model
+			Ecrire les fonctions de relation de ce model
+			Ecrire la factorie de cette entite
+			Migrer la table et Seeder la factorie
+			Ecrire le contenue de la fonction index qui ramene tous le contenus de la table
+			Valider le contenue de la fonction index qui ramene tous le contenus de la table
+			Ecrire le contenue de la fonction create qui renvoie le formulaire de creation de l'entite
+			Valider le contenue de la fonction create qui renvoie le formulaire de creation de l'entite
+			Ecrire le contenue de la fonction store qui stocke une nouvelle entite
+			Valider le contenue de la fonction store qui stocke une nouvelle entite
+			Ecrire le contenue de la fonction edit que modifie une entite
+			Valider le contenue de la fonction edit que modifie une entite
+			Ecrire le contenue de la fonction delete qui supprime une entite
+			Valider le contenue de la fonction delete qui supprime une entite
+			Tester la fonction index de l'entite avec postman
+			Tester la fonction create de l'entite avec postman
+			Tester la fonction store de l'entite avec postman
+			Tester la fonction edit de l'entite avec postman
+			Tester la fonction delete de l'entite avec postman
+			Creer le tableau d'affichage des element de l'entite
+			Creer le formulaire de creation d'une entite
+			Valider les formulaires de creation cote client
+			Fait revenir une entite particuliere pour la modification
+			Supprimer une entite particuliere
+			...
+			Mettre en place les relations entre les entites
+		ETAPES
+			Definir tous les entités du systeme
+			Definir tous les entités du systeme et le type de logiciel dont il s'agit
+			Determiner les attributs de chaque entites
+			Determiner les contraintes sur chaque attribut de cette entite
+			Determiner les relations entres les entites
+			Telecharge une nouvelle app laravel
+			Mettre en place le systeme d'authentification
+			Mettre en place le systeme de role
+			Trouver un bon Template pour les Guess et autres
+			Trouver un bon Template pour les gestionnaires
+			Faire ton layout pour les clients
+			Faire ton layout pour les gestionnaire
+			Concevoir la page d'accueil
+			Concevoir la page de connexion
+			Faire ta page d'erreur 404
+			Prendre une entite
+				Generer la migation, le model, le controller, la factorie pour cette entite
+				Ecrire la migration de cette entite
+				Definit les attributs de masse asseimente dans le model
+				Ecrire la factorie de cette entite
+				Migrer la table et Seeder la factorie
+				Ecrire le contenue de la fonction index qui ramene tous le contenus de la table
+				Valider le contenue de la fonction index qui ramene tous le contenus de la table
+				Ecrire le contenue de la fonction create qui renvoie le formulaire de creation de l'entite
+				Valider le contenue de la fonction create qui renvoie le formulaire de creation de l'entite
+				Ecrire le contenue de la fonction store qui stocke une nouvelle entite
+				Valider le contenue de la fonction store qui stocke une nouvelle entite
+				Ecrire le contenue de la fonction edit que modifie une entite
+				Valider le contenue de la fonction edit que modifie une entite
+				Ecrire le contenue de la fonction delete qui supprime une entite
+				Valider le contenue de la fonction delete qui supprime une entite
+				Tester la fonction index de l'entite avec postman
+				Tester la fonction create de l'entite avec postman
+				Tester la fonction store de l'entite avec postman
+				Tester la fonction edit de l'entite avec postman
+				Tester la fonction delete de l'entite avec postman
+				Faire mon composent de base pour les tableaux
+				Faire mon composent de base pour les formulaire
+				Creer le tableau d'affichage des element de l'entite
+				Creer le formulaire de creation d'une entite
+				Valider les formulaires de creation cote client
+				Fait revenir une entite particuliere pour la modification
+				Supprimer une entite particuliere
+			...
+			Mettre en place les relations entre les entites
