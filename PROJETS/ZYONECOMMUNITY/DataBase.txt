@@ -1,19 +1,19 @@
             DATABASE: ZYONECOMMUNITY
 
-1-Faire les interviews orale avec les acteurs du systeme pour recueillir le plus d'infos possible
-2-Recueillir les documents internes necessaires avec les acteurs
-3-Recueillir des documents externes
-4-Etude des infos de l'interviews orale pour etouffer le DD
-5-Etude des documents internes pour etouffer le DD
-6-Etude des documents externes pour etoufer le DD
-7-Completer, Corriger et Finaliser le DD
-8-Mettre en place les dependances fonctionnelles
-9-Faire la matrice des dependances fonctionnelles
-10-Faire le graphe des dependances fonctionnelles
-11-Ecrire les relations entre chaque entite et tous les autres
-12-Modeliser les relations individuel entre une entite et les autres
+1-Faire les interviews orale avec les acteurs du systeme pour recueillir le plus d'infos possible -ok
+2-Recueillir les documents internes necessaires avec les acteurs -ok
+3-Recueillir des documents externes -ok
+4-Etude des infos de l'interviews orale pour etouffer le DD -ok
+5-Etude des documents internes pour etouffer le DD -ok
+6-Etude des documents externes pour etoufer le DD -ok
+7-Completer, Corriger et Finaliser le DD -ok
+8-Mettre en place les dependances fonctionnelles -ok
+9-Faire la matrice des dependances fonctionnelles -ok
+10-Faire le graphe des dependances fonctionnelles -ok
+11-Ecrire les relations entre chaque entite et tous les autres -ok
+12-Modeliser les relations individuel entre une entite et les autres -ok
 13-Regrouper les relations individuelles pour constituer le MCD
-14-Transformer les relations individuel modeliser en MLD
-15-Regrouper les MLD individuel pour former le MLD final
-16-Transformer chaque intite individuel en MPD
+14-Transformer les relations individuel modeliser en MLD -ok
+15-Regrouper les MLD individuel pour former le MLD final -ok
+16-Transformer chaque intite individuel en MPD -ok
 17-Appliquer les formes normaliser sur chaque MPD

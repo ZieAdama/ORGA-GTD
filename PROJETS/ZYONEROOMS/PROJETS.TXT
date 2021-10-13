@@ -1,0 +1,5 @@
+                        PROJETS
+
+-Integrer le Template
+
+-Faire le MCD: entites(hotels, chambres, reservations, admins,)

@@ -1,0 +1,7 @@
+                        PROJRTS:
+
+-Integrer les templates 
+
+-faire le MCD:entite(enseignants, salle physique, salle pedagogique, Directeur)
+
+La vente commence des lors qu'on peut imprimer les emplois du temps

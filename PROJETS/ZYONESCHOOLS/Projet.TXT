@@ -25,3 +25,6 @@
 				Integrer la librairie a react
 	ACTIONS SUIVANTES
 		Faire les interviews orale avec les acteurs du systeme pour recueillir le plus d'infos possible
+
+-Voire en quoi es ce que laravel lang peut m'aider
+-Chercher comment traduire les chiffres cote clients ?

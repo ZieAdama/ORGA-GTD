@@ -1,6 +1,6 @@
                         CRUD ADMIN
 
-1-Prendre une entite et Generer la migation, le model, le controller, la factorie pour cette entite
+1-Prendre une entite et Generer la migation, le model, le controller, la factorie pour cette entite -ok
 2-Ecrire la migration de cette entites individuels
 3-Ecrire la factorie de cette migration
 4-Ecrire les attributs de masse assaiment du model de cette entite

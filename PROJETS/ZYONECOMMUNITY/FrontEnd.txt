@@ -1,11 +1,11 @@
                 FRONTEND: ZYONECOMMUNITY
-1-Trouver un bon Template pour les Guess et autres
-2-Trouver un bon Template pour les gestionnaires
-3-Faire ton layout pour les clients
-4-Faire ton layout pour les gestionnaire
-5-Concevoir la page d'accueil
-6-Concevoir la page de connexion
-7-Faire ta page d'erreur 404
+1-Trouver un bon Template pour les Guess et autres -ok
+2-Trouver un bon Template pour les gestionnaires -ok
+3-Faire ton layout pour les clients -ok
+4-Faire ton layout pour les gestionnaire -ok
+5-Concevoir la page d'accueil -ok
+6-Concevoir la page de connexion -ok
+7-Faire ta page d'erreur 404 
 8-Installer reactstrap pour les composants
 9-Creer les listes d'affichage de chaque entites
 10-Creer les formulaire de creation de chaque entite

@@ -1,9 +1,9 @@
                 BACKEND: ZYONECOMMUNITY
 
-1-Telecharger une nouvelle App laravel
+1-Telecharger une nouvelle App laravel -ok
 
-2-Mettre en place le systeme d'authentification
+2-Mettre en place le systeme d'authentification -ok
 
-3-Determiner et ecrire les roles de l'application
+3-Determiner et ecrire les roles de l'application -ok
 
 4-Mettre en place le systeme de role avec Laratrust

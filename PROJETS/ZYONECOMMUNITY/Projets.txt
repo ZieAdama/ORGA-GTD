@@ -21,3 +21,9 @@
 -Finir le CRUD sur l'entite cotisation
 
 -Finir le CRUD sur l'entite Reunion
+
+-M'assure de son bon fonctionnement
+
+-Installer sur la machine de Mr Basier
+
+-Faire inserer les donnees par par abdel 
