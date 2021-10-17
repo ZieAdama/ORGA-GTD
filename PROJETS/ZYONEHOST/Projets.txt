@@ -1,5 +1,4 @@
-                        PROJETS
-
+                PROJETS
 
 -Finir la mise en place du FrontEnd
 
@@ -9,3 +8,4 @@
 
 -Finir le CRUD sur les entités
 
+-Finir la Reservation en ligne

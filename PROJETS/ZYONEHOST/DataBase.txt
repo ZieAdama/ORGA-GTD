@@ -1,0 +1,21 @@
+
+		DATABASE
+1-ok-Faire les interviews orale avec les acteurs du systeme pour recueillir le plus d'infos possible
+2-ok-Recueillir les documents internes necessaires avec les acteurs
+3-ok-Recueillir des documents externes
+4-ok-Etude des infos de l'interviews orale pour etouffer le DD
+5-ok-Etude des documents internes pour etouffer le DD
+6-ok-Etude des documents externes pour etoufer le DD
+7-ok-Completer, Corriger et Finaliser le DD
+8-ok-Mettre en place les dependances fonctionnelles
+9-ok-Faire la matrice des dependances fonctionnelles
+10-ok-Faire le graphe des dependances fonctionnelles
+11-ok-Ecrire les relations entre chaque entite et tous les autres
+12-ok-Modeliser les relations individuel entre une entite et les autres
+13-Regrouper les relations individuelles pour constituer le MCD
+14-Transformer les relations individuel modeliser en MLD
+15-Regrouper les MLD individuel pour former le MLD final
+16-Transformer chaque intite individuel en MPD
+17-Appliquer les formes normaliser sur chaque MPD
+
+		

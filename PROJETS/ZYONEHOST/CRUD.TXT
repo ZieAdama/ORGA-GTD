@@ -1,0 +1,35 @@
+
+					PROCESSUS DE CRUD
+1-Prendre une entite et Generer la migation, le model, le controller, la factorie pour cette entite
+2-Ecrire la migration de cette entites individuels
+3-Ecrire la factorie de cette migration
+4-Ecrire les attributs de masse assaiment du model de cette entite
+5-Ecrire les fonctions de relation du model de cette entite
+
+6-Ecrire le contenue de la fonction index qui ramene tous le contenus de la table
+7-Valider le contenue de la fonction index qui ramene tous le contenus de la table
+8-Tester la fonction index de l'entite avec postman
+
+9-Ecrire le contenue de la fonction create qui renvoie le formulaire de creation de l'entite
+10-Valider le contenue de la fonction create qui renvoie le formulaire de creation de l'entite
+11-Tester la fonction create de l'entite avec postman
+
+12-Ecrire le contenue de la fonction store qui stocke une nouvelle entite
+13-Valider le contenue de la fonction store qui stocke une nouvelle entite
+14-Tester la fonction store de l'entite avec postman
+
+15-Ecrire le contenue de la fonction show qui montre une entite specifique
+16-Valider le contenue de la fonction show qui une entite specifique
+17-Tester la fonction show de l'entite avec postman
+
+18-Ecrire le contenue de la fonction edit qui renvoie le formulaire de modification d'un element
+19-Valider le contenue de la fonction edit qui renvoie le formulaire de modification d'un element
+20-Tester la fonction edit de l'entite avec postman
+
+21-Ecrire le contenue de la fonction update que modifie une entite
+22-Valider le contenue de la fonction update qui modifie une entite
+23-Tester la fonction update de l'entite avec postman
+
+24-Ecrire le contenue de la fonction destroy qui supprime une entite
+25-Valider le contenue de la fonction destroy qui supprime une entite
+36-Tester la fonction destroy de l'entite avec postman

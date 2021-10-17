@@ -1,0 +1,17 @@
+
+		FRONTEND
+1-ok-Trouver un bon Template pour les Guess et autres 
+2-ok-Trouver un bon Template pour les gestionnaires
+3-Faire ton layout pour les clients
+4-Faire ton layout pour les gestionnaire
+5-Concevoir la page d'accueil
+6-Concevoir la page de connexion
+7-Faire ta page d'erreur 404
+8-Installer reactstrap pour les composants
+9-Creer les listes d'affichage de chaque entites
+10-Creer les formulaire de creation de chaque entite
+11-Creer les formulaires de modification de chaque entite
+12-Faire la suppression de chaque entite
+13-Valider les formulaires de creation cote client
+
+		

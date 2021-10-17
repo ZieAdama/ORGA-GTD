@@ -6,24 +6,30 @@
 
 -Finir la mise en place de la DB
 
--Finir le CRUD sur l'entite membre
-
--Finir le CRUD sur l'entite evenement
-
--Finir le CRUD sur l'entite Admin
-
--Finir la gestion de la caisse
-
--Finir le CRUD sur l'entite Association
-
--Finir le CRUD sur l'entite operation
-
--Finir le CRUD sur l'entite cotisation
-
--Finir le CRUD sur l'entite Reunion
-
--M'assure de son bon fonctionnement
+-Finir le CRUD sur les entités
 
 -Installer sur la machine de Mr Basier
 
--Faire inserer les donnees par par abdel 
+-Faire inserer les donnees par abdel 
+
+-Mettre en place DatePicker
+
+-Preparer la presentation du samedi
+
+-Ajouter la fonctionnalite de recherche dans les liste
+
+-Ajouter les impressions de liste
+
+-Ameliorer la page d'accueil
+
+-Faire qu'un responsable pusse changer son mdp une fois connecter
+
+-Gerer les numeros de telephone
+
+ok-M'assurer du bon fonctionnement de ZYONECOMMUNITY 
+
+ok-Des qu'on creer une association, on creer ca caisse
+
+-Ne pas dupliquer le code de modification de la caisse
+
+ok-Faire afficher le nombre de membre, d'evenements, de cotisation, et de reunion sur le bureau du responsable.

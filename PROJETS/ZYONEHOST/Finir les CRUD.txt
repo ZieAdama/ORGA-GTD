@@ -1,0 +1,17 @@
+                CRUD
+
+-Finir le CRUD sur l'entite Admin
+
+-Finir le CRUD sur l'entite Client
+
+-Finir le CRUD sur l'entite Gestionnaire
+
+-Finir le CRUD sur l'entite Chambre
+
+-Finir le CRUD sur l'entite Reservation
+
+-Finir le CRUD sur l'entite Personnel
+
+
+
+

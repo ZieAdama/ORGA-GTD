@@ -1,7 +1,9 @@
                         PROJETS
         
--Entreprises
--ETABLISSEMENTS
--stagiaire
--Admins
--LES ELEMENTS DE MV
+-Finir la mise en place du FrontEnd
+
+-Finir la mise en place du BackEnd
+
+-Finir la mise en place de la DB
+
+-Finir le CRUD sur les entités
