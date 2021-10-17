@@ -1,0 +1,13 @@
+
+-Ecoles
+-Administrateur du logiciel
+-Directeur
+-Enseignant
+-Apprenant
+-Parent
+-Niveaux
+-Matieres
+-Composition
+-Annees scolaires
+-Notes
+-Devoirs

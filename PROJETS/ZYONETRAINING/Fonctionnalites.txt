@@ -1,0 +1,3 @@
+                FONCTIONNALITES
+
+-Des qu'on peut lier une entreprise a un etudiant, on peut commencer a vendre

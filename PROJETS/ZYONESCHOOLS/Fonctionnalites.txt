@@ -1,0 +1,7 @@
+                FONCTIONNALITES
+
+-Traduction des chiffres
+
+-Traduction des expressions
+
+-Generation des pdf

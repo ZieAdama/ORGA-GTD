@@ -1,13 +1,9 @@
                 CRUD
 
--Finir le CRUD sur l'entite
+-Finir le CRUD sur l'entite Entreprises
 
--Finir le CRUD sur l'entite
+-Finir le CRUD sur l'entite Admins
 
--Finir le CRUD sur l'entite
+-Finir le CRUD sur l'entite Ecoles
 
--Finir le CRUD sur l'entite
-
--Finir le CRUD sur l'entite
-
-
+-Finir le CRUD sur l'entite Etudiants

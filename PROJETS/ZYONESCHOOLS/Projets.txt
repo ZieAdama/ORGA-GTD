@@ -1,0 +1,18 @@
+                    PROJETS
+
+
+-Finir la mise en place du FrontEnd
+
+-Finir la mise en place du BackEnd
+
+-Finir la mise en place de la DB
+
+-Finir le CRUD sur les entités
+
+-Generer la fiche d'etet statistique
+
+-Mettre en place la traduction des chiffes
+
+-Mettre en place la traduction des expression
+ 
+-Mettre en place le generateur de pdf

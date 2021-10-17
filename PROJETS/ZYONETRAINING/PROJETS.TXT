@@ -7,3 +7,5 @@
 -Finir la mise en place de la DB
 
 -Finir le CRUD sur les entités
+
+-Lier une entreprise a un etudiant

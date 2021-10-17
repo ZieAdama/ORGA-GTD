@@ -1,0 +1,8 @@
+                ROLES
+
+
+-Administrateur du logiciel
+-Directeur
+-Enseignant
+-Apprenant
+-Parent
