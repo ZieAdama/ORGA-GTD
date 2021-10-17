@@ -1,7 +1,11 @@
                         PROJRTS:
 
--Integrer les templates 
+-Finir la mise en place du FrontEnd
 
--faire le MCD:entite(enseignants, salle physique, salle pedagogique, Directeur)
+-Finir la mise en place du BackEnd
 
-La vente commence des lors qu'on peut imprimer les emplois du temps
+-Finir la mise en place de la DB
+
+-Finir le CRUD sur les entités
+
+-Finir les impressions des emplois du temps

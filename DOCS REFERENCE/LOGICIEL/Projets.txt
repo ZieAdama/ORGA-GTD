@@ -1,4 +1,4 @@
-                        PROJETS
+                    PROJETS
 
 
 -Finir la mise en place du FrontEnd
@@ -8,8 +8,3 @@
 -Finir la mise en place de la DB
 
 -Finir le CRUD sur les entités
-
-
--Reservation en ligne sur le compte d'un hotel
-
--Classification des hotels 

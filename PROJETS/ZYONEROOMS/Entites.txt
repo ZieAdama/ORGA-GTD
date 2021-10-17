@@ -11,3 +11,5 @@
 -Reservation
 
 -Personnel
+
+-hotels

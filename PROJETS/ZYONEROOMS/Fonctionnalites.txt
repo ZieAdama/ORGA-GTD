@@ -1,3 +1,10 @@
                     FONCTIONNALITES
 
-1-Reservation en ligne
+1-Reservation en ligne sur le compte d'un hotel
+
+2-Classification des hotels en fonction de:
+    -la classe
+    -le prix
+    -les frequentations
+    -l'emplacement
+    -les sondages au pres des clients

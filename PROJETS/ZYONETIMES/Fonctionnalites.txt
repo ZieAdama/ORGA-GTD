@@ -1,0 +1,3 @@
+                FONCTIONNALITES
+
+-La vente commence des lors qu'on peut imprimer les emplois du temps

@@ -11,7 +11,3 @@
 -Finir le CRUD sur l'entite Reservation
 
 -Finir le CRUD sur l'entite Personnel
-
-
-
-

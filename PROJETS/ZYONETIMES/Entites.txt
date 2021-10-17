@@ -1,0 +1,11 @@
+                ENTITES
+                
+-enseignants
+
+-salle 
+
+-physique
+
+-salle pedagogique 
+
+-Directeur
