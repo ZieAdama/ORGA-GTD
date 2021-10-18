@@ -1,4 +1,5 @@
-                PROJETS
+                    PROJETS
+
 
 -Finir la mise en place du FrontEnd
 
@@ -7,7 +8,3 @@
 -Finir la mise en place de la DB
 
 -Finir le CRUD sur les entités
-
--Finir la Reservation en ligne
-
--Mettre en place DatePicker

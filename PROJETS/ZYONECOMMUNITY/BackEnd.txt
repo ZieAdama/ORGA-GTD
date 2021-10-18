@@ -6,4 +6,4 @@
 
 3-Determiner et ecrire les roles de l'application -ok
 
-4-Mettre en place le systeme de role avec Laratrust
+4-Mettre en place le systeme de role avec Laratrust -ok

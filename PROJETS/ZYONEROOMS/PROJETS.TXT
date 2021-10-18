@@ -13,3 +13,5 @@
 -Reservation en ligne sur le compte d'un hotel
 
 -Classification des hotels 
+
+-Mettre en place DatePicker
