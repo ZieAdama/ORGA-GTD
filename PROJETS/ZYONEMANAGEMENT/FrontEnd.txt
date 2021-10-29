@@ -1,6 +1,6 @@
 
 		FRONTEND
-			1-Trouver un bon Template pour les Guess et autres
+			1-ok-Trouver un bon Template pour les Guess et autres
 			2-Trouver un bon Template pour les gestionnaires
 			3-Faire ton layout pour les clients
 			4-Faire ton layout pour les gestionnaire

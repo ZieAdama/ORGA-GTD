@@ -1,5 +1,6 @@
                     PROJETS
 
+
 -Finir la mise en place du FrontEnd
 
 -Finir la mise en place du BackEnd
@@ -7,4 +8,5 @@
 -Finir la mise en place de la DB
 
 -Finir le CRUD sur les entités
- 
+
+-Mettre en place des horaires pour les commerciaux
