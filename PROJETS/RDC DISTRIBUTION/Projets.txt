@@ -10,3 +10,9 @@
 -Finir le CRUD sur les entités
 
 -Mettre en place des horaires pour les commerciaux
+
+-Reforme interne
+
+-Controller le flux des commerciaux
+
+-Gestion des concurents

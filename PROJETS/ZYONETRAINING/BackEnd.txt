@@ -1,6 +1,6 @@
 		BACKEND
 			1-ok-Telecharger une nouvelle App laravel
-			2-Mettre en place le systeme d'authentification
+			2-ok-Mettre en place le systeme d'authentification
 			3-Determiner et ecrire les roles de l'application
 			4-Mettre en place le systeme de role
 

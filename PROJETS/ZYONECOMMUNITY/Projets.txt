@@ -31,3 +31,5 @@ ok-Des qu'on creer une association, on creer ca caisse
 -Faire afficher le nombre de membre, d'evenements, de cotisation, et de reunion sur le bureau du responsable.
 
 -Mettre en place le compte Membre
+
+-Faire le bilan de cotisation de chaque membre, mensuel, trimestriel, annuel.
